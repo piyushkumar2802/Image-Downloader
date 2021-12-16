@@ -160,7 +160,7 @@
     padding-bottom: 20px;
     color: aquamarine;
   }
-
+  
   /* media Quert */
 
   @media screen and (max-width: 400px) and (min-width: 0px) {
