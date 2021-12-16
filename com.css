@@ -10,7 +10,7 @@
     font-size: 30px;
     text-align: center;
   }
-  .navbarSupportedContent{
+  #navbarSupportedContent{
       justify-content: space-between;
   }
   .header{
